@@ -35,5 +35,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['C:\\Users\\AJAY KUMAR M\\Desktop\\system info\\source files\\icon\\Applogo.ico'],
+    icon=['D:\\Projects\\system info\\source files\\icon\\Applogo.ico'],
 )
